@@ -2,7 +2,7 @@
 
 Updated October 6, 2026.
 
-The page Play should use is [https://goodconscienceapp.github.io/good-conscious-privacy/](https://goodconscienceapp.github.io/good-conscious-privacy/) after GitHub Pages is turned on for this repo.
+The page Play should use is [https://goodconscienceapp.github.io/good-conscience-privacy/](https://goodconscienceapp.github.io/good-conscience-privacy/) after GitHub Pages is turned on for this repo.
 
 Good Conscience is a nudge app. You put your own life in it. When you open an app you chose to watch, it can offer something from that life before the scroll goes on.
 
@@ -42,7 +42,7 @@ If they already have 100 unopened moods, nudges, gratitudes, and tasks from you,
 
 You can delete the Good Conscience account in the app. Open Settings, then Privacy and Data, then Delete Good Conscience account. That removes the cloud names, the links, anything still waiting, and the account, then signs you out. The next sign-in is a new code. The old code stops working. This does not delete the Google account. An app update does not do this, and neither does uninstalling.
 
-If the app is no longer installed, ask at [https://goodconscienceapp.github.io/good-conscious-delete/](https://goodconscienceapp.github.io/good-conscious-delete/). Email goodconscienceapp@gmail.com from the Google account you used. The account and the data saved on it are deleted within 7 days. Tasks that were only on the phone are already gone if the app was removed. A Play subscription is not canceled by this request.
+If the app is no longer installed, ask at [https://goodconscienceapp.github.io/good-conscience-delete/](https://goodconscienceapp.github.io/good-conscience-delete/). Email goodconscienceapp@gmail.com from the Google account you used. The account and the data saved on it are deleted within 7 days. Tasks that were only on the phone are already gone if the app was removed. A Play subscription is not canceled by this request.
 
 There is no separate way to erase the saved names and links while keeping the same account.
 
