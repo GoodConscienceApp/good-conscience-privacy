@@ -1,6 +1,6 @@
 # Good Conscience privacy policy
 
-Updated October 6, 2026.
+Updated October 23, 2026.
 
 The page Play should use is [https://goodconscienceapp.github.io/good-conscience-privacy/](https://goodconscienceapp.github.io/good-conscience-privacy/) after GitHub Pages is turned on for this repo.
 
