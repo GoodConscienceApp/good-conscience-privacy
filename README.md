@@ -1,10 +1,10 @@
-# Good Conscious privacy policy
+# Good Conscience privacy policy
 
 Updated October 6, 2026.
 
-The page Play should use is [https://goodconscious1.github.io/good-conscious-privacy/](https://goodconscious1.github.io/good-conscious-privacy/) after GitHub Pages is turned on for this repo.
+The page Play should use is [https://goodconscienceapp.github.io/good-conscious-privacy/](https://goodconscienceapp.github.io/good-conscious-privacy/) after GitHub Pages is turned on for this repo.
 
-Good Conscious is a nudge app. You put your own life in it. When you open an app you chose to watch, it can offer something from that life before the scroll goes on.
+Good Conscience is a nudge app. You put your own life in it. When you open an app you chose to watch, it can offer something from that life before the scroll goes on.
 
 ## What stays on the phone
 
@@ -22,7 +22,7 @@ Your code is that account id, shown as a QR code. It is not shown until you have
 
 ## Linking
 
-Scanning someone's code saves their account id on your phone, next to the name you gave them. The phone also saves that name and account id to your Good Conscious account. It does not save their tasks, notes, or messages.
+Scanning someone's code saves their account id on your phone, next to the name you gave them. The phone also saves that name and account id to your Good Conscience account. It does not save their tasks, notes, or messages.
 
 Signing out does not delete a link and does not make anyone scan again. It marks the phone as not accepting new sends. Signing back in with the same Google account turns that back on.
 
@@ -40,9 +40,9 @@ If they already have 100 unopened moods, nudges, gratitudes, and tasks from you,
 
 ## Delete the account
 
-You can delete the Good Conscious account in the app. Open Settings, then Privacy and Data, then Delete Good Conscious account. That removes the cloud names, the links, anything still waiting, and the account, then signs you out. The next sign-in is a new code. The old code stops working. This does not delete the Google account. An app update does not do this, and neither does uninstalling.
+You can delete the Good Conscience account in the app. Open Settings, then Privacy and Data, then Delete Good Conscience account. That removes the cloud names, the links, anything still waiting, and the account, then signs you out. The next sign-in is a new code. The old code stops working. This does not delete the Google account. An app update does not do this, and neither does uninstalling.
 
-If the app is no longer installed, ask at [https://goodconscious1.github.io/good-conscious-delete/](https://goodconscious1.github.io/good-conscious-delete/). Email goodconsciousapp@gmail.com from the Google account you used. The account and the data saved on it are deleted within 7 days. Tasks that were only on the phone are already gone if the app was removed. A Play subscription is not canceled by this request.
+If the app is no longer installed, ask at [https://goodconscienceapp.github.io/good-conscious-delete/](https://goodconscienceapp.github.io/good-conscious-delete/). Email goodconscienceapp@gmail.com from the Google account you used. The account and the data saved on it are deleted within 7 days. Tasks that were only on the phone are already gone if the app was removed. A Play subscription is not canceled by this request.
 
 There is no separate way to erase the saved names and links while keeping the same account.
 
@@ -58,7 +58,7 @@ The camera is used only when you choose to scan someone else's code. The picture
 
 ## Subscription
 
-After three free days, Good Conscious asks you to continue through Google Play. Google charges the monthly price. We do not receive or store your card number. Canceling is done in the Play Store. The subscription stays on the Google account, not on the phone.
+After three free days, Good Conscience asks you to continue through Google Play. Google charges the monthly price. We do not receive or store your card number. Canceling is done in the Play Store. The subscription stays on the Google account, not on the phone.
 
 ## What we do not do
 
@@ -66,4 +66,4 @@ We do not sell your information. We do not show ads. We do not use your location
 
 ## Contact
 
-Questions about this policy: goodconsciousapp@gmail.com
+Questions about this policy: goodconscienceapp@gmail.com
