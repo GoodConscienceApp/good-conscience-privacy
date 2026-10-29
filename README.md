@@ -14,9 +14,9 @@ We do not keep a permanent copy of that life in the cloud. Uninstalling the app 
 
 ## Google sign-in
 
-Sign-in is optional for the personal side of the app. It is required before someone can link with you or send you anything.
+Sign-in is optional for your own tasks and gratitudes. A mood does not open until you are signed in and at least one person is linked, because a mood is sent to them. Sign-in is required before someone can link with you or send you anything.
 
-You sign in with the Google account on the phone. We receive the account id Google gives the app, the name on that account when Google provides one, and the email address on that account. The email is used to tell accounts apart. We do not receive your Google password. We do not see your email inbox, contacts, photos, or files.
+You sign in with the Google account on the phone. We receive the account id Google gives the app, and the name on that account when Google provides one. That account id is what tells accounts apart. This app does not use an email address to tell accounts apart. We do not receive your Google password. We do not see your email inbox, contacts, photos, or files.
 
 Your code is that account id, shown as a QR code. It is not shown until you have read the explanation and the phone has accepted your PIN or screen lock.
 
